@@ -9,8 +9,6 @@
 <summary>Common use Languages</summary>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=omrsfylmz&layout=compact' >
 </details>
-
-
 <!--
 ## My Stats
 
@@ -25,8 +23,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [What I Learned During Remote Internship Program](https://medium.com/@omrsfylmz/what-i-learned-during-remote-internship-program-72ff8c6df7f5?source=rss-ec7e1a0ec1e------2)
 <!-- BLOG-POST-LIST:END -->
- <br>
- 
+
 ## Social 
  
 [![GitHub followers](https://img.shields.io/github/followers/omrsfylmz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omrsfylmz?tab=followers)
