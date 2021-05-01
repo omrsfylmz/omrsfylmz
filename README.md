@@ -1,7 +1,5 @@
 ## <font color='white' > Hi there 👋 I'm Omer. <br/> You just entered the sphere of an ardent frontend developer.</font>
 
-<br>
-
 ## My Stats
 
 ![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omrsfylmz&theme=radical)
