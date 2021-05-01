@@ -16,7 +16,8 @@
 - [What I Learned During Remote Internship Program](https://medium.com/@omrsfylmz/what-i-learned-during-remote-internship-program-72ff8c6df7f5?source=rss-ec7e1a0ec1e------2)
 <!-- BLOG-POST-LIST:END -->
  <br>
-## Social
+ 
+## Social 
  
 [![GitHub followers](https://img.shields.io/github/followers/omrsfylmz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/omrsfylmz?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omrsfylmz/)
