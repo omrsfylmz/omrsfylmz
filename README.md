@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omrsfylmz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Blog posts
+# My Blog posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
 - [What I Learned During Remote Internship Program](https://medium.com/@omrsfylmz/what-i-learned-during-remote-internship-program-72ff8c6df7f5?source=rss-ec7e1a0ec1e------2)
