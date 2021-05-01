@@ -1,4 +1,16 @@
 ## <font color='white' > Hi there 👋 I'm Omer. <br/> You just entered the sphere of an ardent frontend developer.</font>
+
+<details>
+<summary> My Stats</summary>
+<img src='https://github-readme-stats.vercel.app/api?username=omrsfylmz&theme=dracula' style='witdh:2000px' >
+</details>
+<details>
+
+<summary>Common use Languages</summary>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=omrsfylmz&layout=compact' >
+</details>
+
+
 <!--
 ## My Stats
 
