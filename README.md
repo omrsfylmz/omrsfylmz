@@ -11,7 +11,7 @@
 </details>
 
 
-# My Blog posts on Medium
+### My Blog posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
 - [What I Learned During Remote Internship Program](https://medium.com/@omrsfylmz/what-i-learned-during-remote-internship-program-72ff8c6df7f5?source=rss-ec7e1a0ec1e------2)
