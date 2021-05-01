@@ -1,5 +1,5 @@
 ## <font color='white' > Hi there 👋 I'm Omer. <br/> You just entered the sphere of an ardent frontend developer.</font>
-
+<!--
 ## My Stats
 
 ![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omrsfylmz&theme=radical)
@@ -7,7 +7,7 @@
 ## Common use Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omrsfylmz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 # My Blog posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
