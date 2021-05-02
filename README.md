@@ -48,7 +48,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=omrsfylmz)
 
-##### I also strictly follow Kodluyoruz amd Patika Curriculum.Who wouldn't want to exploit the top courses on computer science, after all?
+##### I also strictly follow Kodluyoruz and Patika Curriculum.Who wouldn't want to exploit the top courses on computer science, after all?
 [![Kodluyoruz](https://img.shields.io/badge/Kodluyoruz-org-yellow)](https://www.kodluyoruz.org/)
 [![Patika](https://img.shields.io/badge/Patika-dev-yellow)](https://www.patika.dev/)
 
