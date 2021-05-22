@@ -14,6 +14,7 @@
 ### My Blog posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [There is anOther Path](https://medium.com/patika-dev/there-is-another-path-93f017e21894?source=rss-ec7e1a0ec1e------2)
 - [What I Learned During Remote Internship Program](https://medium.com/@omrsfylmz/what-i-learned-during-remote-internship-program-72ff8c6df7f5?source=rss-ec7e1a0ec1e------2)
 <!-- BLOG-POST-LIST:END -->
 
