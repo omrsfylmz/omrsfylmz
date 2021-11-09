@@ -14,9 +14,9 @@
 ### My Blog posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power Behind Success and Failure](https://medium.com/@omrsfylmz/the-power-behind-success-and-failure-381dd9325ab?source=rss-ec7e1a0ec1e------2)
+- [The Power Behind Success and Failure](https://omrsfylmz.medium.com/the-power-behind-success-and-failure-381dd9325ab?source=rss-ec7e1a0ec1e------2)
 - [There is anOther Path](https://medium.com/patika-dev/there-is-another-path-93f017e21894?source=rss-ec7e1a0ec1e------2)
-- [What I Learned During Remote Internship Program](https://medium.com/@omrsfylmz/what-i-learned-during-remote-internship-program-72ff8c6df7f5?source=rss-ec7e1a0ec1e------2)
+- [What I Learned During Remote Internship Program](https://omrsfylmz.medium.com/what-i-learned-during-remote-internship-program-72ff8c6df7f5?source=rss-ec7e1a0ec1e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social 
