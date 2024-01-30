@@ -16,21 +16,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:omrsfylmz@gmail.com)
 [![medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@omrsfylmz)
 
-##### Languages I use
-
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-
-##### Some of the technologies I have worked with
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-
-<br/>
 <!--
 **omrsfylmz/omrsfylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
