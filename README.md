@@ -31,13 +31,6 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
 <br/>
-
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-
-</br>
-
 <!--
 **omrsfylmz/omrsfylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
