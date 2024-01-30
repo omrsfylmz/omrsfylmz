@@ -1,15 +1,4 @@
-## <font color='white' > Hi there 👋 I'm Omer. <br/> You just entered the sphere of an ardent frontend developer.</font>
-
-<details>
-<summary> My Stats</summary>
-<img src='https://github-readme-stats.vercel.app/api?username=omrsfylmz&theme=dracula' style='witdh:2000px' >
-</details>
-<details>
-
-<summary>Common use Languages</summary>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=omrsfylmz&layout=compact' >
-</details>
-
+## <font color='white' > Hi there 👋 I'm Omer.
 
 ### My Blog posts on Medium
 
@@ -48,12 +37,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
 </br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=omrsfylmz)
-
-##### I also strictly follow Kodluyoruz and Patika Curriculum.Who wouldn't want to exploit the top courses on computer science, after all?
-[![Kodluyoruz](https://img.shields.io/badge/Kodluyoruz-org-yellow)](https://www.kodluyoruz.org/)
-[![Patika](https://img.shields.io/badge/Patika-dev-yellow)](https://www.patika.dev/)
 
 <!--
 **omrsfylmz/omrsfylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
